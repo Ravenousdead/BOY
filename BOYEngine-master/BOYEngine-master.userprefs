@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Editor\NodeEditor.cs">
+    <Files>
+      <File FileName="Assets\Editor\NodeEditor.cs" Line="94" Column="25" />
+      <File FileName="Assets\Editor\StitchNode.cs" Line="1" Column="1" />
+      <File FileName="Assets\Editor\PrefLayout.cs" Line="1" Column="1" />
+      <File FileName="Assets\BaseParts\Spool.cs" Line="1" Column="1" />
+      <File FileName="Assets\BaseParts\Stitch.cs" Line="1" Column="1" />
+      <File FileName="Assets\BaseParts\Yarn.cs" Line="1" Column="1" />
+      <File FileName="G:\User Centered Design\PlanetsTool\Assets\CustomPlanet.cs" Line="1" Column="1" />
+      <File FileName="G:\User Centered Design\EnemyTool.cs" Line="1" Column="1" />
+      <File FileName="Assets\BaseParts\Spinner.cs" Line="150" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
